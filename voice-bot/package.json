@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.py": "^1.0.0",
+    "git": "^0.1.5",
+    "pip": "^0.0.1",
+    "python": "^0.0.4"
+  }
+}
